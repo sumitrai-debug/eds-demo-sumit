@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/lets-learn-eds/:/"
+    "/content/aem-eds-sumit-demo/:/"
   ],
   "includes": [
     "/content/aem-boilerplate/"
